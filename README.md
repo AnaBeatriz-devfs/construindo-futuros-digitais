@@ -2,72 +2,131 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/47cbbfd6-d384-4be1-8218-f9f1a571cba3
+**URL**: [https://lovable.dev/projects/47cbbfd6-d384-4be1-8218-f9f1a571cba3](https://construindo-futuros-digitais.lovable.app/)
 
-## How can I edit this code?
+🌍 Construindo o Amanhã
 
-There are several ways of editing your application.
+Slogan: Formando Talentos, Mudando Destinos
 
-**Use Lovable**
+O Construindo o Amanhã é uma plataforma socioeducacional digital desenvolvida para apoiar jovens órfãos entre 15 e 17 anos e 11 meses em sua transição para a vida adulta.
+Nosso propósito é capacitar, inspirar e conectar esses jovens ao mercado de trabalho, garantindo autonomia financeira e dignidade.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/47cbbfd6-d384-4be1-8218-f9f1a571cba3) and start prompting.
+🚀 Objetivo do Projeto
 
-Changes made via Lovable will be committed automatically to this repo.
+Ser uma ponte entre orfanatos e empregabilidade.
 
-**Use your preferred IDE**
+Oferecer formação socioemocional, técnica e prática.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Criar um ecossistema digital seguro, interativo e motivador.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Reduzir a vulnerabilidade social de jovens que deixam os abrigos ao completar 18 anos.
 
-Follow these steps:
+🏗️ Estrutura da Plataforma
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+A plataforma é organizada em 6 módulos principais + acompanhamento terapêutico:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1️⃣ Autoconhecimento e Projeto de Vida
 
-# Step 3: Install the necessary dependencies.
-npm i
+Diário digital interativo.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Quizzes e testes de personalidade.
 
-**Edit a file directly in GitHub**
+Criação de um mapa de metas (curto, médio e longo prazo).
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+2️⃣ Soft Skills (Habilidades Comportamentais)
 
-**Use GitHub Codespaces**
+Treino de oratória em realidade virtual.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Dinâmicas gamificadas de grupo.
 
-## What technologies are used for this project?
+Inteligência emocional com cenários interativos.
 
-This project is built with:
+3️⃣ Hard Skills (Capacitação Técnica)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Curso completo de Pacote Office.
 
-## How can I deploy this project?
+Exercícios práticos e simulador de projetos.
 
-Simply open [Lovable](https://lovable.dev/projects/47cbbfd6-d384-4be1-8218-f9f1a571cba3) and click on Share -> Publish.
+Criação de portfólio digital.
 
-## Can I connect a custom domain to my Lovable project?
+4️⃣ Educação Financeira
 
-Yes, you can!
+Calculadoras interativas de simulação.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Vídeos animados sobre finanças pessoais.
 
+Workshops gamificados sobre salário, dívidas e investimentos.
+
+5️⃣ Suporte para Vestibular
+
+Banco de dados de cursos/universidades com filtros inteligentes.
+
+Aulas preparatórias em vídeo.
+
+Fórum de dúvidas com educadores voluntários.
+
+6️⃣ Jornada de Empregabilidade
+
+Criação de currículo e LinkedIn com templates prontos.
+
+Simulação de entrevistas com feedback em vídeo.
+
+Conexão direta com empresas parceiras via dashboard.
+
+💙 Funcionalidade Central
+Acompanhamento Terapêutico
+
+Canal seguro e confidencial.
+
+Agendamento de sessões de terapia online.
+
+Apoio emocional com psicólogos voluntários.
+
+🎨 Identidade Visual & Experiência do Usuário
+
+Interface intuitiva, inspiradora e acolhedora.
+
+Paleta de cores que transmite esperança, calma e positividade.
+
+Navegação em forma de universo digital, onde cada módulo é uma “ilha de transformação”.
+
+🔧 Tecnologias Sugeridas
+
+Frontend: React, TailwindCSS, Framer Motion.
+
+Backend: Node.js / NestJS ou Django.
+
+Banco de Dados: PostgreSQL ou MongoDB.
+
+Integrações: APIs de vídeo, IA para simulações, dashboards de empresas.
+
+Infraestrutura: AWS / Azure / GCP.
+
+📌 Próximos Passos
+
+ Definição da arquitetura da aplicação.
+
+ Criação de protótipo navegável (UI/UX).
+
+ Desenvolvimento dos módulos principais.
+
+ Integração com parceiros educacionais e empresas.
+
+ Implementação do canal terapêutico.
+
+🤝 Como Contribuir
+
+Faça um fork do repositório.
+
+Crie uma branch: git checkout -b feature/sua-feature.
+
+Commit suas mudanças: git commit -m 'Adiciona nova feature'.
+
+Envie para o repositório remoto: git push origin feature/sua-feature.
+
+Abra um Pull Request.
+
+📜 Licença
+
+Este projeto está sob a licença MIT – sinta-se livre para usar e adaptar.
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
