@@ -164,10 +164,6 @@ All colors MUST be HSL.
   .transition-bounce {
     transition: var(--transition-bounce);
   }
-  
-  .hover\:scale-102:hover {
-    transform: scale(1.02);
-  }
 }
 
 @keyframes float {
