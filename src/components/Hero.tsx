@@ -43,7 +43,7 @@ const Hero = () => {
           <Button className="btn-hero text-lg px-10 py-6">
             Começar Jornada
           </Button>
-          <Button variant="outline" className="text-white border-white/40 hover:bg-white/10 text-lg px-8 py-6">
+          <Button className="btn-hero text-lg px-8 py-6">
             Conhecer Módulos
           </Button>
         </div>
